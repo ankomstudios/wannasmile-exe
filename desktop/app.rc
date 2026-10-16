@@ -1,0 +1,2 @@
+// App icon, embedded in WannaSmile.exe. desktop\build.bat downloads WannaSmile.ico if it is missing.
+1 ICON "WannaSmile.ico"
